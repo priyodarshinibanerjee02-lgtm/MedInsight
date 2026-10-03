@@ -1,0 +1,24 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Temporary files
+tempCodeRunnerFile.py
+*.tmp
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Jupyter / IPython
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
